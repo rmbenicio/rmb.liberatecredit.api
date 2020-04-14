@@ -1,0 +1,9 @@
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\rmb.liberatecredit.domain\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.deps.json
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\rmb.liberatecredit.domain\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\rmb.liberatecredit.domain\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.pdb
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\rmb.liberatecredit.domain\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\rmb.liberatecredit.domain\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\rmb.liberatecredit.domain\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\rmb.liberatecredit.domain\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\rmb.liberatecredit.domain\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\rmb.liberatecredit.domain\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.pdb

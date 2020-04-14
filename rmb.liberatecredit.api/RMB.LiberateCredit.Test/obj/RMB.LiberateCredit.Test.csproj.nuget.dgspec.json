@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\RMB.LiberateCredit.Test\\RMB.LiberateCredit.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\rmb.liberatecredit.domain\\RMB.LiberateCredit.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\rmb.liberatecredit.domain\\RMB.LiberateCredit.Domain.csproj",
+        "projectName": "RMB.LiberateCredit.Domain",
+        "projectPath": "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\rmb.liberatecredit.domain\\RMB.LiberateCredit.Domain.csproj",
+        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\rmb.liberatecredit.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\RMB.LiberateCredit.Test\\RMB.LiberateCredit.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\RMB.LiberateCredit.Test\\RMB.LiberateCredit.Test.csproj",
+        "projectName": "RMB.LiberateCredit.Test",
+        "projectPath": "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\RMB.LiberateCredit.Test\\RMB.LiberateCredit.Test.csproj",
+        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\RMB.LiberateCredit.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\rmb.liberatecredit.domain\\RMB.LiberateCredit.Domain.csproj": {
+                "projectPath": "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\rmb.liberatecredit.domain\\RMB.LiberateCredit.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.11.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

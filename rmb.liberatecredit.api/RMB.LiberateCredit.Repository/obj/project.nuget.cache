@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPtLB9WbibdneDYGQNlahUkFR8v6BcOvNMlhryAqNH202hB4Hp+2+11eA7If1ptzGpODznZIGS/KXVFA0yXv9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus\\Desktop\\Desafio\\rmb.liberatecredit.api\\rmb.liberatecredit.api\\RMB.LiberateCredit.Repository\\RMB.LiberateCredit.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

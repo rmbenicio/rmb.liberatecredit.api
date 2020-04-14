@@ -1,0 +1,16 @@
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.deps.json
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.pdb
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.pdb
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.pdb
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Test\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Test.csproj.CopyComplete

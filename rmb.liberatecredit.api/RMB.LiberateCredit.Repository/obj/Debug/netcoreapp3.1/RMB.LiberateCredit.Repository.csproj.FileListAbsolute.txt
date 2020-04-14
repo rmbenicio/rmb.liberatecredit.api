@@ -1,0 +1,12 @@
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.deps.json
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.pdb
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.pdb
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.dll
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\bin\Debug\netcoreapp3.1\RMB.LiberateCredit.Domain.pdb
+C:\Users\Matheus\Desktop\Desafio\rmb.liberatecredit.api\rmb.liberatecredit.api\RMB.LiberateCredit.Repository\obj\Debug\netcoreapp3.1\RMB.LiberateCredit.Repository.csproj.CopyComplete
