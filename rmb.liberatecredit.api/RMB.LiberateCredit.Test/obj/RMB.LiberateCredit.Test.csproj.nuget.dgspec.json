@@ -104,9 +104,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
             "FluentAssertions": {
               "target": "Package",
               "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
             },
             "Moq": {
               "target": "Package",

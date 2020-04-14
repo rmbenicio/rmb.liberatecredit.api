@@ -19,10 +19,10 @@ namespace RMB.LiberateCredit.Domain.Models
         }
 
         public decimal CreditValue { get; set; }
-        public CreditTypeEnum CreditType { get; set; }
-        public ClientTypeEnum ClientType { get; set; }
+        public CreditTypeEnum? CreditType { get; set; }
+        public ClientTypeEnum? ClientType { get; set; }
         public int QuantityParcel { get; set; }
-        public DateTime DateFirstDueDate { get; set; }
+        public DateTime? DateFirstDueDate { get; set; }
         public int Id { get; set; }
 
 
@@ -48,18 +48,26 @@ namespace RMB.LiberateCredit.Domain.Models
 
         public bool ValidateEnumCreditType()
         {
-            bool validateReturn = false;
-            bool success = Enum.IsDefined(typeof(CreditTypeEnum), CreditType);
+            bool success = false;
 
-            return validateReturn;
+            if (!(CreditType is null))
+            {
+                success = Enum.IsDefined(typeof(CreditTypeEnum), CreditType);
+            }
+
+            return success;
         }
 
         public bool ValidateEnumClientType()
         {
-            bool validateReturn = false;
-            bool success = Enum.IsDefined(typeof(ClientTypeEnum), ClientType);
+            bool success = false;
 
-            return validateReturn;
+            if (!(ClientType is null))
+            {
+                success = Enum.IsDefined(typeof(ClientTypeEnum), ClientType);
+            }
+
+            return success;
         }
 
         public bool ValidateLimitMinPJ()
@@ -82,7 +90,7 @@ namespace RMB.LiberateCredit.Domain.Models
             bool validateReturn = false;
             DateTime datemin = DateTime.Now.AddDays(+15);
             DateTime datemax = DateTime.Now.AddDays(40);
-            if (datemin.Date >= DateFirstDueDate.Date || DateFirstDueDate.Date <= datemax.Date)
+            if (DateFirstDueDate.HasValue && (datemin.Date >= DateFirstDueDate.Value || DateFirstDueDate.Value <= datemax.Date))
             {
 
                 validateReturn = true;
